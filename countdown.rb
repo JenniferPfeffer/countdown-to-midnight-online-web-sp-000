@@ -1,6 +1,6 @@
 #write your code here
-def countdown(integer)
-  while integer > 0 
+def countdown(seconds_to_midnight)
+  while  > 0 
   puts "#{integer} SECOND(S)!" 
   integer -= 1 
   sleep 2
